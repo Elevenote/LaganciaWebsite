@@ -1,0 +1,164 @@
+.maintenance-message {
+	text-align: center;
+	margin-top: 100px;
+	font-size: 100px;
+	color: #333;
+}
+#title {
+font-size: 130px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 5px 5px 5px white;
+text-transform: uppercase;
+}
+
+#back {
+color:darkslateblue;
+font-style: italic;
+}
+
+#welcome {
+border-radius: 5px;
+border-width: 2px;
+border-style: outset;
+font-size: 30px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 2px 2px 2px white;
+text-transform: capitalize;
+width: 280px;
+}
+
+.hotkey {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+border-radius: 2px;
+border-color: rgb(72, 7, 133);
+border-width: 1px;
+border-style: groove;
+width: 100px;
+padding: 10px;
+}
+
+.hotkey2 {
+color: darkslateblue;
+text-shadow: 2px 2px 2px white;
+text-decoration: none;
+font-size: 20px;
+}
+
+.shop {
+font-size: 70px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 5px 5px 5px white;
+text-transform: capitalize;}
+
+.shop_border {
+margin: 10px;
+border-radius: 2px;
+border-color: rgb(72, 7, 133);
+border-width: 1px;
+border-style: groove;
+width: 400px;
+padding: 10px;
+background-color: whitesmoke;
+}
+
+.product {
+border-radius: 5px;
+border-width: 2px;
+border-style: outset;
+font-size: 50px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 2px 2px 2px white;
+text-transform: capitalize;
+}
+
+.description {
+font-size: 20px;
+color:rgb(14, 11, 35);
+text-decoration: none;
+text-shadow: 1px 1px 1px white;
+text-transform: none;
+font-style: italic;
+}
+
+.price {
+font-size: 25px;
+color:rgb(17, 13, 45);
+text-decoration: none;
+text-shadow: 2px 2px 2px white;
+text-transform: capitalize;
+font-weight: bold;
+}
+
+.discount_price {
+font-size: 20px;
+color:rgb(125, 120, 120);
+text-decoration: line-through;
+text-shadow: 1px 1px 1px white;
+text-transform: capitalize;
+font-weight: italic;
+}
+
+.images_border {
+margin: 10px;
+border-radius: 2px;
+border-color: rgb(72, 7, 133);
+border-width: 1px;
+border-style: groove;
+width: 650px;
+padding: 10px;
+background-color: whitesmoke;
+}
+
+.images {
+border-radius: 5px;
+border-width: 2px;
+border-style: outset;
+font-size: 30px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 2px 2px 2px white;
+text-transform: capitalize;
+width: 100px;
+}
+
+.buy {
+font-size: 30px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 2px 2px 2px white;
+text-transform: capitalize;
+font-weight: bold;
+}
+
+.buy_button {
+border-radius: 5px;
+border-width: 2px;
+border-style: outset;
+font-size: 20px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 2px 2px 2px white;
+text-transform: capitalize;
+width: 100px;
+padding: 10px;
+background-color: lightgrey;
+}
+
+#purchase {
+font-size: 40px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 5px 5px 5px white;
+text-align: center;
+margin: 20px;
+border-radius: 5px;
+border-width: 2px;
+border-style: outset;
+width: 400px;
+padding: 10px;
+background-color: lightgrey;
+}
