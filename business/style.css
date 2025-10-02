@@ -21,7 +21,6 @@ font-style: italic;
 border-radius: 5px;
 border-width: 2px;
 border-style: outset;
-box-shadow: 2px 2px 2px whiteghost;
 font-size: 30px;
 color:darkslateblue;
 text-decoration: none;
@@ -162,5 +161,28 @@ border-style: outset;
 width: 400px;
 padding: 10px;
 background-color: lightgrey;
+}
 
+.head {
+font-size: 80px;
+color:darkslateblue;
+text-decoration: none;
+text-shadow: 5px 5px 5px white;
+text-transform: capitalize;
+}
+
+.text {
+font-size: 25px;
+color:rgb(14, 11, 35);
+text-decoration: none;
+text-shadow: 1px 1px 1px white;
+text-transform: none;
+font-style: italic;
+width: 800px;
+margin: 20px;
+padding: 10px;
+background-color: whitesmoke;
+border-radius: 5px;
+border-width: 2px;
+border-style: outset;
 }
