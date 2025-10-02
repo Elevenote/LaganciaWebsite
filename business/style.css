@@ -21,6 +21,7 @@ font-style: italic;
 border-radius: 5px;
 border-width: 2px;
 border-style: outset;
+box-shadow: 2px 2px 2px whiteghost;
 font-size: 30px;
 color:darkslateblue;
 text-decoration: none;
@@ -161,4 +162,5 @@ border-style: outset;
 width: 400px;
 padding: 10px;
 background-color: lightgrey;
+
 }
